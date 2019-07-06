@@ -1,3 +1,3 @@
 <?php
-    setcookie("user","Matt Prasty",time()+20);
+    setcookie("user","rifqi",time()+20);
 ?>
